@@ -4,7 +4,11 @@ Disciplina de Engenharia de Software
 
 Professor: Paulo Henrique Sousa Barbosa (link do github: https://github.com/agenteph)
 
-Grupo: TI da Depressão
+Grupo: Gilberto Barros Parreão Junior;
+       Vitor Lucas de Lima Brito;
+       Willian dos Santos de Oliveira;
+       Gustavo Ogrodowski Marcolina.
+       
 
 Engenharia de Software
 
@@ -12,6 +16,3 @@ Engenharia de Software
 2. Etapas e Processos de Desenvolvimento
 3. Modelos de Processo de Software
 4. Requisitos de Software e Engenharia de Requisitos
-
-#Sniffer-em-C
-Criando um Sniffer em C para detecção de Backdoors.
