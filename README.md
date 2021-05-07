@@ -8,6 +8,7 @@ Grupo:
 Gilberto Barros Parreão Junior;
 Vitor Lucas de Lima Brito;
 Willian dos Santos de Oliveira;
+Winicius Rocha;
 Gustavo Ogrodowski Marcolina.
        
 
