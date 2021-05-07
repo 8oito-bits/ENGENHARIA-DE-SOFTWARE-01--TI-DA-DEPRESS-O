@@ -2,7 +2,7 @@ FACIMP - FACULDADE DE IMPERATRIZ
 
 Disciplina de Engenharia de Software
 
-Professor: Paulo Henrique Sousa Barbosa
+Professor: Paulo Henrique Sousa Barbosa (link do github: https://github.com/agenteph)
 
 Grupo: TI da Depressão
 
