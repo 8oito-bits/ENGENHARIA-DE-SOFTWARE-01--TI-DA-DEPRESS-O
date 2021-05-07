@@ -4,13 +4,13 @@ Disciplina de Engenharia de Software
 
 Professor: Paulo Henrique Sousa Barbosa (link do github: https://github.com/agenteph)
 
-Grupo: Gilberto Barros Parreão Junior;
+Grupo: Gilberto Barros Parreão Junior
 
-       Vitor Lucas de Lima Brito;
+       Vitor Lucas de Lima Brito
 
-       Willian dos Santos de Oliveira;
+       Willian dos Santos de Oliveira
        
-       Gustavo Ogrodowski Marcolina.
+       Gustavo Ogrodowski Marcolina
        
 
 Engenharia de Software
