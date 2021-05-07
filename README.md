@@ -1,4 +1,3 @@
-# ENGENHARIA-DE-SOFTWARE-01--TI-DA-DEPRESS-O
 FACIMP - FACULDADE DE IMPERATRIZ
 Disciplina de Engenharia de Software
 Professor: Paulo Henrique Sousa Barbosa
