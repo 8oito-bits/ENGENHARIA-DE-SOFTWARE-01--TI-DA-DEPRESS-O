@@ -6,11 +6,8 @@ Professor: Paulo Henrique Sousa Barbosa (link do github: https://github.com/agen
 
 Grupo: 
 Gilberto Barros Parreão Junior;
-
 Vitor Lucas de Lima Brito;
-
 Willian dos Santos de Oliveira;
-
 Gustavo Ogrodowski Marcolina.
        
 
