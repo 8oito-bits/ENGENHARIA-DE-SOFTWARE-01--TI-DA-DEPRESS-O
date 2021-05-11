@@ -10,7 +10,8 @@ Gilberto Barros Parreão Junior;
 Vitor Lucas de Lima Brito;
 Willian dos Santos de Oliveira;
 Winicios Rocha Queiroz;
-Gustavo Antônio Ogrodowski Marcolina.
+Gustavo Antônio Ogrodowski Marcolina;
+Vitor dos Santos Galdino.
        
 
 # Engenharia de Software
