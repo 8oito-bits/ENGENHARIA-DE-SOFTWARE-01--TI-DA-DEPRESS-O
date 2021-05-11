@@ -1,4 +1,4 @@
-#FACIMP - FACULDADE DE IMPERATRIZ
+# FACIMP - FACULDADE DE IMPERATRIZ
 
 Disciplina de Engenharia de Software
 
@@ -12,7 +12,7 @@ Winicius Rocha;
 Gustavo Antônio Ogrodowski Marcolina.
        
 
-#Engenharia de Software
+# Engenharia de Software
 
 1. O que é Engenharia de Software
 2. Etapas e Processos de Desenvolvimento
