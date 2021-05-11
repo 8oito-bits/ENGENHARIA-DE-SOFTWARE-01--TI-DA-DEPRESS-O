@@ -3,7 +3,7 @@
 Disciplina de Engenharia de Software
 
 Professor: 
-[Paulo Henrique Sousa Barbosa](link do github: https://github.com/agenteph)
+[ph](link do github: https://github.com/agenteph)
 
 # Grupo: 
 Gilberto Barros Parreão Junior;
