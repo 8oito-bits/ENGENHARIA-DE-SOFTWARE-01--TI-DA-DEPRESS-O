@@ -9,7 +9,7 @@ Professor:
 Gilberto Barros Parreão Junior;
 Vitor Lucas de Lima Brito;
 Willian dos Santos de Oliveira;
-Winicios Rocha;
+Winicios Rocha Queiroz;
 Gustavo Antônio Ogrodowski Marcolina.
        
 
