@@ -7,11 +7,12 @@ Professor:
 
 # Grupo: 
 Gilberto Barros Parreão Junior;
-Vitor Lucas de Lima Brito;
-Willian dos Santos de Oliveira;
-Winicios Rocha Queiroz;
 Gustavo Antônio Ogrodowski Marcolina;
-Vitor dos Santos Galdino.
+Vitor Lucas de Lima Brito;
+Vitor dos Santos Galdino;
+Willian dos Santos de Oliveira;
+Winicios Rocha Queiroz.
+
        
 
 # Engenharia de Software
