@@ -6,12 +6,12 @@ Professor:
 [Paulo Henrique Sousa Barbosa](https://github.com/agenteph)
 
 # Grupo: 
-Gilberto Barros Parreão Junior;
-Gustavo Antonio Ogrodowski Marcolina;
-Vitor Lucas de Lima Brito;
-Vitor dos Santos Galdino;
-Willian dos Santos de Oliveira;
-Winicios Rocha Queiroz.
+* Gilberto Barros Parreão Junior;
+* Gustavo Antonio Ogrodowski Marcolina;
+* Vitor Lucas de Lima Brito;
+* Vitor dos Santos Galdino;
+* Willian dos Santos de Oliveira;
+* Winicios Rocha Queiroz.
 
        
 
