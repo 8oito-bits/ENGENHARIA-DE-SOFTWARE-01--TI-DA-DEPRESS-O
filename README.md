@@ -7,7 +7,7 @@ Professor:
 
 # Grupo: 
 Gilberto Barros Parreão Junior;
-Gustavo Antônio Ogrodowski Marcolina;
+Gustavo Antonio Ogrodowski Marcolina;
 Vitor Lucas de Lima Brito;
 Vitor dos Santos Galdino;
 Willian dos Santos de Oliveira;
