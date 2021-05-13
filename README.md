@@ -8,12 +8,12 @@ Professor:
 
 
 # Grupo: 
-* [Gilberto Barros Parreão Junior](https://github.com/gilbertoparreao);
-* [Gustavo Antonio Ogrodowski Marcolina](https://github.com/marcolinaguga);
-* [Vitor Lucas de Lima Brito](https://github.com/Darthvitu);
+* [Gilberto Barros Parreão Junior](https://github.com/gilbertoparreao)
+* [Gustavo Antonio Ogrodowski Marcolina](https://github.com/marcolinaguga)
+* [Vitor Lucas de Lima Brito](https://github.com/Darthvitu)
 * [Vitor dos Santos Galdino](https://github.com/VDSG6)
-* [Willian dos Santos de Oliveira](https://github.com/8oito-bits);
-* [Winicios Rocha Queiroz](https://github.com/Winicios22).
+* [Willian dos Santos de Oliveira](https://github.com/8oito-bits)
+* [Winicios Rocha Queiroz](https://github.com/Winicios22)
 
        
 
