@@ -1,5 +1,5 @@
 # FACIMP - FACULDADE DE IMPERATRIZ
-![foo](/facimp.png "Facimp")
+![alt text](/facimp.png "Facimp")
 
 Disciplina de Engenharia de Software
 
