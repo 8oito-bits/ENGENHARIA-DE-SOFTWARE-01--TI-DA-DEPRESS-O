@@ -1,7 +1,7 @@
 # FACIMP - FACULDADE DE IMPERATRIZ
 ![alt text](/facimp.png "Facimp")
 
-Disciplina de Engenharia de Software
+Disciplina: Engenharia de Software
 
 Professor: 
 [Paulo Henrique Sousa Barbosa](https://github.com/agenteph)
