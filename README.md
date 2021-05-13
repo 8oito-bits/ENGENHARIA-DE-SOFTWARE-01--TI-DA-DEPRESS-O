@@ -19,4 +19,4 @@ Professor:
 
 # Engenharia de Software
 
-Link para a [Wiki](https://github.com/8oito-bits/ENGENHARIA-DE-SOFTWARE-01--TI-DA-DEPRESS-O/wiki)
+Link para a [Wiki.](https://github.com/8oito-bits/ENGENHARIA-DE-SOFTWARE-01--TI-DA-DEPRESS-O/wiki)
