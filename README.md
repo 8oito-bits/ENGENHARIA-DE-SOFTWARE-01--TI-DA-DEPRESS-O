@@ -7,7 +7,7 @@ Professor:
 [Paulo Henrique Sousa Barbosa](https://github.com/agenteph)
 
 
-# Grupo: 
+# Grupo:
 * [Gilberto Barros Parreão Junior](https://github.com/gilbertoparreao)
 * [Gustavo Antonio Ogrodowski Marcolina](https://github.com/marcolinaguga)
 * [Vitor Lucas de Lima Brito](https://github.com/Darthvitu)
